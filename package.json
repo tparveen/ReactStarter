@@ -1,5 +1,5 @@
 {
-  "name": "thinkful-react-starter",
+  "name": "TP-react-starter",
   "version": "0.0.1",
   "description": "A React template",
   "main": "js/index.js",
@@ -37,7 +37,7 @@
     "watch:assets": "run-s build:assets _watch:assets",
     "_watch:assets": "chokidar assets/**/* -c \"npm run build:assets\""
   },
-  "author": "Joe Turner <joe@oampo.co.uk>",
+  "author": "Tauhida",
   "license": "UNLICENSED",
   "devDependencies": {
     "babel-cli": "^6.11.4",
